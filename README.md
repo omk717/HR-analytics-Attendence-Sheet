@@ -35,7 +35,8 @@ The HR Analytics Attendance Sheet Power BI project is provided for informational
 Contact
 For questions or inquiries about the project, please contact Omkar Pangavhane at omkarpangavhane@gmail.com
 
- 
+
+![Screenshot 2024-04-18 182520](https://github.com/omk717/HR-analytics-Attendence-Sheet/assets/91830654/a6f34a32-1e15-4048-bda9-fa0032f75d84)
 
 
 
